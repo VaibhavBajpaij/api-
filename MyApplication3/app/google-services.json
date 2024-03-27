@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518934114802",
+    "project_id": "enter-data-50243",
+    "storage_bucket": "enter-data-50243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518934114802:android:3bd329c7bf18d2bc8b7b6b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQYOhsbdIr2ZHrMRdVj_KzL7QPaD__G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
